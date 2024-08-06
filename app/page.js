@@ -115,7 +115,7 @@ useEffect(()=>{
         alignItems = "center"
         justifyContent = "center"
         display = "flex">
-          <Typography variant = "h2" color = "#333">Inventory Items</Typography>
+          <Typography variant = "h2" color = "#333">Pantry Tracker</Typography>
         </Box>
       <Stack width = "800px" 
       height = "300px"
